@@ -1,4 +1,12 @@
-# quant-finance
+# quant-finance  
+
+PortfolioAnalytics aims to optimize our:  
+1. Assets  
+2. Constraints  
+3. Objectives  
+4. Asset Return Moments  
+
+using these, we create an optimization engine that takes in these inputs, and our final result is the optimized portfolio  
 
 There are different optimization methods we can use in PortfolioAnalytics:  
 
