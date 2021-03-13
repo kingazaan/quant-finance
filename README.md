@@ -1,6 +1,7 @@
 # quant-finance
 
-There are different optimization methods we can use in PortfolioAnalytics:
+There are different optimization methods we can use in PortfolioAnalytics:  
+
 • weight_sum,weight,leverageSpecify constraint on the sum of the weights, seeweight_sum_constraint  
 • full_investmentSpecial case to setmin_sum=1andmax_sum=1of weight sum constraints  
 • dollar_neutral,activeSpecial case to setmin_sum=0andmax_sum=0of weight sum con-straints  
